@@ -8,3 +8,16 @@
   <li>Responsive</li>
   <li>Lumen Api</li>
 </ul>
+
+
+<h2>Features</h2>
+
+<ul>
+  <li>Navigation</li>
+  <li>Rest Api</li>
+  <li>Contact Section</li>
+  <li>Portfolio</li> 
+   <li>Service</li>
+  <li>Course section</li>
+  <li>Footer</li>
+</ul>
